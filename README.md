@@ -7,3 +7,7 @@ Este projeto em C renderiza um donut rotativo no terminal usando caracteres ASCI
 - `Buffers`: Dois buffers são utilizados: um para armazenar a profundidade (`z`) e outro para os caracteres ASCII (`b`), garantindo que a perspectiva correta seja mantida durante a rotação.
 - `Animação`: A rotação é controlada por incrementos variáveis de dois ângulos (`A` e `B`), que são atualizados a cada iteração do loop, resultando em uma animação contínua e suave.
 - `Terminal`: A renderização é feita diretamente no terminal, com a tela sendo atualizada a cada quadro para criar o efeito de movimento.
+
+
+![Captura de tela 2024-09-29 182815](https://github.com/user-attachments/assets/c9647f28-de1d-4c28-8e34-37ad75f30506)
+![Captura de tela 2024-09-29 182828](https://github.com/user-attachments/assets/aac2db4e-c88c-4654-b321-866c41684b06)
