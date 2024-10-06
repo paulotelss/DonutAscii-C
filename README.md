@@ -11,3 +11,6 @@ Este projeto em C renderiza um donut rotativo no terminal usando caracteres ASCI
 
 ![Captura de tela 2024-09-29 182815](https://github.com/user-attachments/assets/c9647f28-de1d-4c28-8e34-37ad75f30506)
 ![Captura de tela 2024-09-29 182828](https://github.com/user-attachments/assets/aac2db4e-c88c-4654-b321-866c41684b06)
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
